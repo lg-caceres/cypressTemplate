@@ -1,0 +1,15 @@
+{
+  "name": "cypresstemplate",
+  "version": "1.0.0",
+  "description": "Basic cypress project setup",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cy:open": "cypress open"
+  },
+  "author": "Luis Caceres",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^13.14.2"
+  }
+}
